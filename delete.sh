@@ -1,7 +1,5 @@
 #!/bin/bash
 
-export > "test.txt"
-
 sleep 5
 
 rm -f "$SRCROOT/Carthage/Build/iOS/9DD57E8B-D1BA-3E64-9952-CE62617CEB7A.bcsymbolmap"
