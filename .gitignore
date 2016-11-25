@@ -1,0 +1,10 @@
+
+Cartfile.resolved
+
+Carthage/
+
+CrashlyticsCarthage.xcodeproj/project.xcworkspace/
+
+CrashlyticsCarthage.xcodeproj/xcuserdata/
+
+*.framework
