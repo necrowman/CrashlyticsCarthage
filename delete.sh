@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 5
+sleep 10
 
 rm -rf "$SRCROOT/Carthage/Build/iOS/CrashlyticsCarthage.framework"
 rm -rf "$SRCROOT/Carthage/Build/iOS/CrashlyticsCarthage.framework.DSYM"
